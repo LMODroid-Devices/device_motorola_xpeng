@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_xpeng.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_xpeng-user \
-    lmodroid_xpeng-userdebug \
-    lmodroid_xpeng-eng
